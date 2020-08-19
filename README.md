@@ -10,9 +10,9 @@ Expression used to specify a set of strings required for a particular purpose.
 
 ## What is Parser
 It is a
-..* a function
-..* that takes some input in form of a raw sequence (like a string of characters)
-..* returns some meaningful data built from the raw input
+1. a function
+2. that takes some input in form of a raw sequence (like a string of characters)
+3. returns some meaningful data built from the raw input
 
 ## Parser combinatory in Scala
 A Parser Combinator implements a grammar using a structure of parser objects. There are two aspects to the result of a parser:
