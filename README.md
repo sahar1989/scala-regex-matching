@@ -24,10 +24,10 @@ P1 | P2
 
 ## References
 
-..* Regular expression retrieved from  https://en.wikipedia.org/wiki/Regular_expression on 2th Dec 2019
-..* Parser retrieved from 
+1. Regular expression retrieved from  https://en.wikipedia.org/wiki/Regular_expression on 2th Dec 2019
+2. Parser retrieved from 
    https://www.scala-lang.org/api/2.12.2/scala-parser-combinators/scala/util/parsing/combinator/Parsers.html No date
-..* Parser combinatory retrieved from 
+3. Parser combinatory retrieved from 
    https://martinfowler.com/dslCatalog/parserCombinator.html No date
 
 
